@@ -54,13 +54,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <scope>test</scope>
-            <version>4.11-beta-1</version>
-        </dependency>
-        <dependency>
-            <groupId>org.easymock</groupId>
-            <artifactId>easymockclassextension</artifactId>
-            <scope>test</scope>
-            <version>3.1</version>
+            <version>4.11</version>
         </dependency>
         <dependency>
             <groupId>org.hibernate</groupId>
